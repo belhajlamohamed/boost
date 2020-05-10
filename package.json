@@ -1,0 +1,27 @@
+{
+  "name": "boost",
+  "version": "1.0.0",
+  "description": "this for boostrap learning",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belhajlamohamed/boost.git"
+  },
+  "author": "belhajla mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belhajlamohamed/boost/issues"
+  },
+  "homepage": "https://github.com/belhajlamohamed/boost#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
